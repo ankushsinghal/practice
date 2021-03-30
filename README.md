@@ -1,2 +1,2 @@
 # practice
-Repo for practicing DS and Algos
+Repo for practising DS and Algos
